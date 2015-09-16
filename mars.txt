@@ -1,5 +1,4 @@
 Cold and dry, but everything is my favorite color.
 new info.
 third line.
-
-version 2
+removed the conflict on this line
